@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @xxnian95
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning Java, Golang and algorithms
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-xxnian95/xxnian95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🛠️ Backend engineer focused on scalable systems, reliability, and production-grade engineering
+- 🔍 I’m especially interested in system design, performance optimization, distributed systems, and engineering quality
+- 🌱 Currently learning and building with Go, Java, and core computer science fundamentals
+- 🤝 Open to collaboration on backend infrastructure, tooling, and systems-oriented projects
+- 🚴 I enjoy cycling, coffee, and cocktails when I’m away from the keyboard
+- 📫 I keep personal contact details private here, but GitHub is a good place to start
