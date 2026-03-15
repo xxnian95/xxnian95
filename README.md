@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @xxnian95
-- 🛠️ Backend engineer focused on scalable systems, reliability, and production-grade engineering
-- 🔍 I’m especially interested in system design, performance optimization, distributed systems, and engineering quality
+- 🛠️ Backend engineer focused on cross-border payments, scalable systems, and production reliability
+- 🔍 My work is centered on enabling fast business iteration while continuously strengthening platform capabilities, engineering quality, and long-term maintainability
+- ⚙️ I’m especially interested in system design, distributed systems, performance optimization, and building reusable backend infrastructure
 - 🌱 Currently learning and building with Go, Java, and core computer science fundamentals
-- 🤝 Open to collaboration on backend infrastructure, tooling, and systems-oriented projects
+- 🤝 Open to collaboration on backend infrastructure, developer tooling, and systems-oriented projects
 - 🚴 I enjoy cycling, coffee, and cocktails when I’m away from the keyboard
-- 📫 I keep personal contact details private here, but GitHub is a good place to start
+- 📫 I prefer to keep personal contact details private here, but GitHub is a good place to start
